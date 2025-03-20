@@ -2,6 +2,10 @@ commit2qg
 commit3
 feature1
 
+<<<<<<< HEAD
 
 practise2
 
+=======
+practise2
+>>>>>>> 352ac55 (m)
